@@ -36,13 +36,13 @@ Soy un apasionado desarrollador Full Stack con experiencia en la creación de ap
 
 #### Educación:
 
-- **Curso de programación Full-Stack Java, [Coding Dojo], 2021**
+- **Curso de programación Full-Stack Java, Coding Dojo, 2021**
 
 ---
 
 #### Contacto:
 
-- **Correo Electrónico:** [leonardo.bueras.v@gmail.com]
+- **Correo Electrónico:** leonardo.bueras.v@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/leonardo-bueras-7066ab211/]
 
 ---
