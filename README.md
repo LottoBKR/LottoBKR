@@ -43,7 +43,7 @@ Soy un apasionado desarrollador Full Stack con experiencia en la creación de ap
 #### Contacto:
 
 - **Correo Electrónico:** leonardo.bueras.v@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/leonardo-bueras-7066ab211/]
+- **LinkedIn:** https://www.linkedin.com/in/leonardo-bueras-7066ab211/
 
 ---
 
